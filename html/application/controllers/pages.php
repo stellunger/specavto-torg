@@ -11,10 +11,23 @@ class Pages extends CI_Controller {
 		$this->load->view('footer');
 	}
 
-	public function show_page($page_id)
+	public function show_page($category_id, $product_id)
 	{
 		$data['page_title'] = 'Спецтехника | Спецавто-торг.рф';
 
-		$this->load->view($page_id, $data);
+		$data['contact_us'] = $this->load->view('contact_us', '', true);
+
+		$this->load->view('header', $data);
+
+		if ($product_id != "")
+		{
+			$this->load->view($category_id.'/'.$product_id, $data);
+		}
+		else
+		{
+			$this->load->view($category_id.'/main_page', $data);
+		}
+
+		$this->load->view('footer');
 	}
 }

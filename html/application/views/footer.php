@@ -1,3 +1,5 @@
+
+</div>
 <!-- Start: FOOTER -->
     <footer>
       <div class="container">
