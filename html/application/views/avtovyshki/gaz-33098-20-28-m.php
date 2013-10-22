@@ -5,7 +5,7 @@
           <div class="row bottom-space">
             <div class="span12">
               <div class="page-header">
-                <h1>ГАЗ-33098 DA324, DA328<small> от 20 до 28 м</small></h1>
+                <h1>ГАЗ-33098 от 20 до 28 м<small> автогидроподъемники</small></h1>
               </div>
             </div>
             <div class="span12 center-align">

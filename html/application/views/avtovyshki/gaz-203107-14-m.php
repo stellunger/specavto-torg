@@ -5,7 +5,7 @@
           <div class="row bottom-space">
             <div class="span12">
               <div class="page-header">
-                <h1>ГАЗ-203107 A314<small> 14 м</small></h1>
+                <h1>ГАЗ-203107 14 м<small> автогидроподъемники</small></h1>
               </div>
             </div>
             <div class="span12 center-align">

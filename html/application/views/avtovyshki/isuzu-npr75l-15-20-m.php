@@ -5,7 +5,7 @@
           <div class="row bottom-space">
             <div class="span12">
               <div class="page-header">
-                <h1>ISUZU NPR75L T315, T318<small> от 15 до 20 м</small></h1>
+                <h1>ISUZU NPR75L от 15 до 20 м<small> автогидроподъемники</small></h1>
               </div>
             </div>
             <div class="span12 center-align">

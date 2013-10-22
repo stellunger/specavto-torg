@@ -29,18 +29,18 @@
 
               	<li class="span3">
             	    <div class="thumbnail">
-                		<img src="<?php echo base_url(); ?>img/placeholder-260x150.jpg" alt="product name">
+                		<img src="<?php echo base_url(); ?>img/products/agp-hyundai-78-19-22-m-preview.png" alt="product name">
                   		<div class="caption">
                     		<h3>HYUNDAI 19-22 м</h3>
                     		<p>
                       			<b>Высота подъема</b> - от 19 до 22 м.<br />
                       			<b>Колесная формула</b> - 4х2.<br />
-                      			<b>Базовое шасси</b> - ГАЗ-33098.<br />
+                      			<b>Базовое шасси</b> - HYUNDAI-78.<br />
                     		</p>
                   		</div>
                   		<div class="widget-footer">
                     		<p>
-                      			<a href="#" class="btn btn-primary">Подробнее >></a>                      			
+                      			<a href="<?php echo base_url(); ?>avtovyshki/agp-hyundai-78-19-22-m" class="btn btn-primary">Подробнее >></a>                      			
                     		</p>
                   		</div>
                 	</div>

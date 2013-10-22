@@ -5,7 +5,7 @@
           <div class="row bottom-space">
             <div class="span12">
               <div class="page-header">
-                <h1>УРАЛ-4320 DA328, DA332<small> 28 м</small></h1>
+                <h1>УРАЛ-4320 28 м<small> автогидроподъемники</small></h1>
               </div>
             </div>
             <div class="span12 center-align">
