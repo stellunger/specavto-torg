@@ -10,9 +10,18 @@
                       <h1>ПОСТАВКА СПЕЦТЕХНИКИ</h1>
                       <p>Наша компания занимается поставкой спецтехники от ведущих производителей.</p>
 
+                      <p>Ассортимент компании включает:</p>
+
+                      <p>1. Автовышки телескопические (АГП), расположение стрелы над кабиной.<br />
+                      2. Автовышки телескопические (АГП), расположение стрелы за кабиной.<br />
+                      3. Автовышки комбинированные телескопические (АГП).<br />
+                      4. Краны-манипуляторы (КМУ).<br />
+                      5. Эвакуаторы со сдвижной платформой.</p>
+                      
+
                     </div>
                     <div class="span5">
-                      <img src="img/placeholder.jpg" class="thumbnail">
+                      <!--<img src="img/placeholder.jpg" class="thumbnail">-->
                     </div>
                   </div>                  
                 </div>
@@ -25,129 +34,64 @@
       </div>
       
         <div class="container">
-          <div class="page-header">
-            <h2>Наша продукция</h2>
-          </div>
+         <br />
           <div class="row-fluid">
             <ul class="thumbnails">
               <li class="span4">
                 <div class="thumbnail">
-                  <img src="img/placeholder-360x200.jpg" alt="product name">
+                  <img src="<?php echo base_url(); ?>img/products/mp1.png" alt="Автовышки">
                   <div class="caption">
                     <h3>Автовышки</h3>
                     <p>
-                      Few attractive words about your product.Few attractive words about your product.
-                      Few attractive words about your product.Few attractive words about your product.
+                      Мы предлагаем автогидроподъемники на базе большинства популярных шасси: КАМАЗ, ГАЗ, Hyundai,
+                      Isuzu. Только самые современные модели!
                     </p>
                   </div>
                   <div class="widget-footer">
                     <p>
-                      <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="<?php echo base_url(); ?>avtovyshki" class="btn btn-primary">Автовышки >></a>                      
                     </p>
                   </div>
                 </div>
               </li>
               <li class="span4">
                 <div class="thumbnail">
-                  <img src="img/placeholder-360x200.jpg" alt="product name">
+                  <img src="<?php echo base_url(); ?>img/products/mp2.png" alt="product name">
                   <div class="caption">
-                    <h3>Product name</h3>
+                    <h3>Краны-манипуляторы</h3>
                     <p>
-                      Few attractive words about your product.Few attractive words about your product.
-                      Few attractive words about your product.Few attractive words about your product.
+                      Современные и надежные модели, широкий выбор шасси от ведущих производителей, включая ГАЗ, КАМАЗ,
+                      Hyundai и Isuzu. Выгодные условия сотрудничества, отличные цены!
                     </p>
                   </div>
                   <div class="widget-footer">
                     <p>
-                      <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="<?php echo base_url(); ?>kmu" class="btn btn-primary">Краны-манипуляторы >></a>                      
                     </p>
                   </div>
                 </div>
               </li>
               <li class="span4">
                 <div class="thumbnail">
-                  <img src="img/placeholder-360x200.jpg" alt="product name">
+                  <img src="<?php echo base_url(); ?>img/products/mp3.png" alt="product name">
                   <div class="caption">
-                    <h3>Product name</h3>
+                    <h3>Эвакуаторы</h3>
                     <p>
-                      Few attractive words about your product.Few attractive words about your product.
-                      Few attractive words about your product.Few attractive words about your product.
+                      Предлагаем современные эвакуаторы со сдвижной платформой. Сдвижная платформа адаптирована под
+                      любое среднетоннажное отечественное или иностранное шасси.
                     </p>
                   </div>
                   <div class="widget-footer">
                     <p>
-                      <a href="#" class="btn btn-primary">Buy now</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
+                      <a href="<?php echo base_url(); ?>evakuatory" class="btn btn-primary">Эвакуаторы >></a>
                     </p>
                   </div>
                 </div>
               </li>
             </ul>
           </div>
-          <div class="page-header">
-            <h2>Our Services</h2>
-          </div>
-          <div class="row-fluid">
-            <ul class="thumbnails">
-              <li class="span4">
-                <div class="thumbnail">
-                  <img src="img/placeholder-360x200.jpg" alt="product name">
-                  <div class="caption">
-                    <h3>Service title</h3>
-                    <p>
-                      Few attractive words about your service.Few attractive words about your service.
-                      Few attractive words about your service.Few attractive words about your service.
-                    </p>
-                  </div>
-                  <div class="widget-footer">
-                    <p>
-                      <a href="#" class="btn btn-primary">Try for free</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
-                    </p>
-                  </div>
-                </div>
-              </li>
-              <li class="span4">
-                <div class="thumbnail">
-                  <img src="img/placeholder-360x200.jpg" alt="product name">
-                  <div class="caption">
-                    <h3>Service title</h3>
-                    <p>
-                      Few attractive words about your service.Few attractive words about your service.
-                      Few attractive words about your service.Few attractive words about your service.
-                    </p>
-                  </div>
-                  <div class="widget-footer">
-                    <p>
-                      <a href="#" class="btn btn-primary">Try for free</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
-                    </p>
-                  </div>
-                </div>
-              </li>
-              <li class="span4">
-                <div class="thumbnail">
-                  <img src="img/placeholder-360x200.jpg" alt="product name">
-                  <div class="caption">
-                    <h3>Service title</h3>
-                    <p>
-                      Few attractive words about your service.Few attractive words about your service.
-                      Few attractive words about your service.Few attractive words about your service.
-                    </p>
-                  </div>
-                  <div class="widget-footer">
-                    <p>
-                      <a href="#" class="btn btn-primary">Try for free</a>&nbsp;
-                      <a href="product.html" class="btn">Read more</a>
-                    </p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
+          
         </div>
-      <!-- End: PRODUCT LIST -->
+      
     </div>
-    <!-- End: MAIN CONTENT -->
+    

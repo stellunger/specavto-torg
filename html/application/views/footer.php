@@ -5,91 +5,81 @@
       <div class="container">
         <div class="row">
           <div class="span2">
-            <h4><i class="icon-star icon-white"></i> Products</h4>
+            <h4>Продукция</h4>
             <nav>
               <ul class="quick-links">
-                <li><a href="product.html">Product1</a></li>
-                <li><a href="product.html">Product2</a></li>
-                <li><a href="product.html">Product3</a></li>
-                <li><a href="all_products.html">All products</a></li>
-              </ul>
-            </nav>
-            <h4><i class="icon-cogs icon-white"></i> Services</h4>
-            <nav>
-              <ul class="quick-links">
-                <li><a href="service.html">Service1</a></li>
-                <li><a href="service.html">Service2</a></li>
-                <li><a href="service.html">Service3</a></li>
-                <li><a href="all_services.html">All services</a></li>              
-              </ul>
-            </nav>
-          </div>
-          <div class="span2">
-            <h4><i class="icon-beaker icon-white"></i> About</h4>
-            <nav>
-              <ul class="quick-links">
-                <li><a href="our_works.html">Our works</a></li>
-                <li><a href="patnerships.html">Patnerships</a></li>
-                <li><a href="leadership.html">Leadership</a></li>
-                <li><a href="news.html">News</a></li>
-                <li><a href="events.html">Events</a></li>
-                <li><a href="blog.html">Blog</a></li>
-              <ul>
-            </nav>          
-          </div>
-          <div class="span2">
-            <h4><i class="icon-thumbs-up icon-white"></i> Support</h4>
-            <nav>
-              <ul class="quick-links">
-                <li><a href="faq.html">FAQ</a></li>
-                <li><a href="contact_us.html">Contact us</a></li>            
-              </ul>
-            </nav>
-            <h4><i class="icon-legal icon-white"></i> Legal</h4>
-            <nav>
-              <ul class="quick-links">
-                <li><a href="#">License</a></li>
-                <li><a href="#">Terms of Use</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Security</a></li>      
+                <li><a href="product.html">Автовышки</a></li>
+                <li><a href="product.html">Краны-манипуляторы</a></li>
+                <li><a href="product.html">Эвакуаторы</a></li>                
               </ul>
             </nav>            
           </div>
+          <div class="span2">
+            
+          </div>
+          <div class="span2">
+            
+          </div>
           <div class="span3">
-            <h4>Get in touch</h4>
-            <div class="social-icons-row">
-              <a href="#"><i class="icon-twitter"></i></a>
-              <a href="#"><i class="icon-facebook"></i></a>
-              <a href="#"><i class="icon-linkedin"></i></a>                                         
-            </div>
-            <div class="social-icons-row">
-              <a href="#"><i class="icon-google-plus"></i></a>              
-              <a href="#"><i class="icon-github"></i></a>
-              <a href="mailto:soundar.rathinasamy@gmail.com"><i class="icon-envelope"></i></a>        
-            </div>
-            <div class="social-icons-row">
-              <i class="icon-phone icon-large phone-number"></i> +919750227877
-            </div>
+            
           </div>      
           <div class="span3">
-            <h4>Get updated by email</h4>
-            <form>
-              <input type="text" name="email" placeholder="Email address">
-              <input type="submit" class="btn btn-primary" value="Subscribe">
-            </form>
+            <h4>+7 (831) 212-37-59</h4>            
           </div>
         </div>
       </div>
       <hr class="footer-divider">
       <div class="container">
         <p>
-          &copy; 2012-3000 Bootbusiness, Inc. All Rights Reserved.
+          &copy; <a href="http://спецавто-торг.рф">Спецавто-торг.рф</a> | Разработка и продвижение сайта - <a href="http://stellunger.ru">Бюро интернет-маркетинга "Штеллунгер"</a>
         </p>
       </div>
     </footer>
-    <!-- End: FOOTER -->
+    
     <script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url(); ?>js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url(); ?>js/boot-business.js"></script>
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter23057749 = new Ya.Metrika({id:23057749,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/23057749" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+      <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-44121958-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
   </body>
 </html>
