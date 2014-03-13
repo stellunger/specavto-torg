@@ -38,10 +38,10 @@
 |
 */
 
-$route['default_controller'] = 'pages';
+$route['default_controller'] = "pages";
 $route['404_override'] = '';
 
-$route['(:any)'] = 'pages/show_page/$1/$2';
+$route['(:any)'] = 'pages/show_page/$1';
 
 
 /* End of file routes.php */

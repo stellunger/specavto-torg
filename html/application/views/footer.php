@@ -1,85 +1,50 @@
+	<!-- ****** Footer ****** -->
+	<div class="b-body-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<h3>Продукция</h3>
+					<ul class="b-ul-list1">
+						<li><a href="#">Автовышки</a></li>
+						<li><a href="#">Краны-манипуляторы</a></li>
+						<li><a href="#">Эвакуаторы</a></li>
+						<li><a href="#">Автобетононасосы</a></li>
+						<li><a href="#">Электростанции</a></li>
+					</ul>
+				</div>
+				<div class="col-md-2">
+					<h3>О компании</h3>
+					<ul class="b-ul-list1">
+						<li><a href="#">Наши партнеры</a></li>
+						<li><a href="#">О нас</a></li>
+					</ul>
+				</div>
+				<div class="col-md-2">
+					<h3>Контакты</h3>
+					<div class="b-contact-footer">
+						<div class="b-item"><span>тел:</span>+7 (831) 212-37-59</div>
+						<div class="b-item"><span>e-mail:</span><a href="#">spectehnika@mail.ru</a></div>
+						<div class="b-item"><span>адрес:</span>г. Екатеренбург ул. Московская,27, оф.123</div>
+					</div>
+				</div>
+				<div class="col-md-4 pull-right">
+					<div class="b-coperate">
+						© Спецавто-торг.рф<br>Разработка и продвижение сайта<br>Бюро интернет-маркетинга "Штеллунгер"
+					</div>
+				</div>
+			</div>		
+		</div>
+	</div>
+	
+	
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>
+	<script src="js/script.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
 
-</div>
-<!-- Start: FOOTER -->
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="span2">
-            <h4>Продукция</h4>
-            <nav>
-              <ul class="quick-links">
-                <li><a href="product.html">Автовышки</a></li>
-                <li><a href="product.html">Краны-манипуляторы</a></li>
-                <li><a href="product.html">Эвакуаторы</a></li>                
-              </ul>
-            </nav>            
-          </div>
-          <div class="span2">
-            
-          </div>
-          <div class="span2">
-            
-          </div>
-          <div class="span3">
-            
-          </div>      
-          <div class="span3">
-            <h4>+7 (831) 212-37-59</h4>            
-          </div>
-        </div>
-      </div>
-      <hr class="footer-divider">
-      <div class="container">
-        <p>
-          &copy; <a href="http://спецавто-торг.рф">Спецавто-торг.рф</a> | Разработка и продвижение сайта - <a href="http://stellunger.ru">Бюро интернет-маркетинга "Штеллунгер"</a>
-        </p>
-      </div>
-    </footer>
-    
-    <script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.min.js"></script>
-    <script type="text/javascript" src="<?php echo base_url(); ?>js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="<?php echo base_url(); ?>js/boot-business.js"></script>
-
-    <!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter23057749 = new Ya.Metrika({id:23057749,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/23057749" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
-      <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-44121958-7']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
+    <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+	<script src="<?php echo base_url(); ?>assets/js/html5shiv.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/respond.js"></script>
   </body>
 </html>
