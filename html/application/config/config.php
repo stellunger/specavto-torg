@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://specavto-torg.local/';
+$config['base_url']	= 'http://specavto-torg.local:21015/';
 
 /*
 |--------------------------------------------------------------------------
